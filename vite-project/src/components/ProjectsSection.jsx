@@ -6,32 +6,32 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
         id:1,
-        title: "Project One",
-        description: "This is a description of project one.",
-        // image: "/path/to/image1.jpg",
-        tags: ["JavaScript", "React", "CSS"],
-        githubUrl: "https://example.com/project-one",
-        demoUrl: "https://example.com/demo-one"
+        title: "School Database Management System",
+        description: "Developed and deployed a full-stack student registration app with role-based access, MongoDB, responsive UI, and CI/CD via GitHub Actions and agile collaboration.",
+        image: "/projects/Database-Management.png",
+        tags: ["MongoDB", "React", "Express.js"],
+        githubUrl: "https://github.com/SahabMalhotra/School-Database",
+        demoUrl: "https://school-database-choz.onrender.com/"
     },
     {
         id:2,
-        title: "Project Two",
-        description: "This is a description of project two.",
-        // image: "/path/to/image2.jpg",
-        tags: ["JavaScript", "React", "CSS"],
-        githubUrl: "https://example.com/project-two",
-        demoUrl: "https://example.com/demo-two"
+        title: "Style Stage",
+        description: "Built a fully responsive, accessible CSS-only theme using Grid, Flexbox, and animations—focused on semantic styling, WCAG standards, and Figma-aligned UI design.",
+        image: "/projects/Style-Stage.png",
+        tags: ["HTML","CSS"],
+        githubUrl: "https://github.com/SahabMalhotra/CSS_Style_Stage",
+        demoUrl: "https://sahabmalhotra.github.io/CSS_Style_Stage/"
     },
     {
         id:3,
-        title: "Project Three",
-        description: "This is a description of project two.",
-        // image: "/path/to/image2.jpg",
-        tags: ["JavaScript", "React", "CSS"],
-        githubUrl: "https://example.com/project-two",
-        demoUrl: "https://example.com/demo-two"
+        title: "Household Food Insecurity Web Platform",
+        description: "Designed and developed a mobile-first, responsive site in collaboration with SMDHU, integrating Shopify API and analytics tools to support community health and accessibility goals.",
+        image: "/projects/Food-Insecurity.png",
+        tags: ["JavaScript", "HTML", "CSS", "Node"],
+        githubUrl: "https://sup-1-jfe3.onrender.com/Homepage/index.html",
+        demoUrl: "https://sup-1-jfe3.onrender.com/Homepage/index.html"
     }
-    // Add more projects as needed
+   
 ];
 
 
@@ -88,7 +88,7 @@ export const ProjectsSection = () => {
                 </div>
 
                 <div className="text-center mt-12">
-                    <a className="cosmic-button w-fit flex items-center mx-auto gap-2" href="#"
+                    <a className="cosmic-button w-fit flex items-center mx-auto gap-2" href="https://github.com/SahabMalhotra"
                     target="_blank">
 
                         Check My Github <ArrowRight size={20} />

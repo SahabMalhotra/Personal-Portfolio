@@ -10,6 +10,7 @@ export const FooterSection = () =>{
             {" "}
             <p className="text-sm textmuted-foreground">
                 &copy; {new Date().getFullYear()} 
+                {" "}
                 Sahib Singh, All rights reserved. 
             </p>
 

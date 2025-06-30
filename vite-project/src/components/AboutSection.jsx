@@ -16,12 +16,15 @@ export const AboutSection = () => {
                         <h3 className="text-xl font-semibold">Passionate Web Developer </h3>
                         
                         <p className="text-muted-foreground">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione illo vitae magni, amet itaque ipsa nesciunt suscipit labore quaerat ut?
+                            Hi, I'm Sahib Singh, a passionate and motivated Computer Programming graduate from Georgian College with a strong interest in web development, ethical hacking, and technology that makes a difference. I've worked on various projects ranging from student databases to climate impact trackers, and I enjoy solving problems through code and innovation.
                         </p>
 
                         <p className="text-muted-foreground">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione illo vitae magni, amet itaque ipsa nesciunt suscipit labore quaerat ut?
+                           I’m skilled in HTML, CSS, JavaScript, Python, SQL, Node.js, MERN stack, and more. Beyond coding, I’ve contributed to meaningful causes like raising awareness about household food insecurity through web campaigns and hackathons.
                         </p>
+
+
+                       
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 jusify-center">
                             <a href="#contact" className="cosmic-button">
@@ -29,7 +32,7 @@ export const AboutSection = () => {
                                 Get in Touch
                             </a>
 
-                            <a href="#contact" className="px-6 py-2 rounded-full border border-primary text-glow-primary
+                            <a href="/projects/SAHIB_SINGH_CV.pdf" target="_blank" className="px-6 py-2 rounded-full border border-primary text-glow-primary
                             text-primary hover:bg-primary/10 transition-colors duration-300"
                             style={{ boxShadow: "0 0 10px 3px #9a71d8" }}
                             >
@@ -50,7 +53,7 @@ export const AboutSection = () => {
                                         Web Development
                                     </h4>
                                     <p className="text-muted-foreground">
-                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis repellat illum, ad harum animi quasi reiciendis suscipit esse aspernatur. Nihil?
+                                        I have hands-on experience in building responsive and dynamic web applications using technologies like HTML, CSS, JavaScript, Node.js, and the MERN stack. I enjoy creating clean user interfaces and solving real-world problems through intuitive design and efficient code.
                                     </p>
                                   </div>
 
@@ -65,10 +68,10 @@ export const AboutSection = () => {
 
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">
-                                        Web Development
+                                        Teamwork
                                     </h4>
                                     <p className="text-muted-foreground">
-                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis repellat illum, ad harum animi quasi reiciendis suscipit esse aspernatur. Nihil?
+                                       I thrive in collaborative environments and have worked effectively in team-based projects, both in academic settings and community initiatives. I believe that open communication, respect, and shared goals are key to building successful solutions together.
                                     </p>
                                   </div>
 
@@ -83,10 +86,10 @@ export const AboutSection = () => {
 
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">
-                                        Web Development
+                                        Social Innovator Drafter
                                     </h4>
                                     <p className="text-muted-foreground">
-                                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis repellat illum, ad harum animi quasi reiciendis suscipit esse aspernatur. Nihil?
+                                       As a member of the Change the Now club, I contributed to social impact campaigns addressing issues like food insecurity. I’ve combined technology and creativity to raise awareness, run digital challenges, and support sustainable development goals through engaging platforms.
                                     </p>
                                   </div>
                                   

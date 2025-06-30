@@ -34,7 +34,7 @@ export const ContactSection = () => {
                 </h2>
 
                 <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores voluptas odio eligendi tenetur aperiam saepe.
+                    I'm always open to new opportunities, collaborations, or just a friendly chat — feel free to reach out!
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
@@ -51,8 +51,8 @@ export const ContactSection = () => {
                                     <h4 className="font-medium">
                                         Email
                                     </h4>
-                                    <a href="mailto:he@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
-                                        he@gmail.com
+                                    <a href="mailto:sahabsinghmalhotra@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                                        sahabsinghmalhotra@gmail.com
                                     </a>
                                 </div>
                             </div>
@@ -68,7 +68,7 @@ export const ContactSection = () => {
                                         Phone
                                     </h4>
                                     <a href="tel:+11234567890" className="text-muted-foreground hover:text-primary transition-colors">
-                                        123-456-7890
+                                        (647)-571-0901
                                     </a>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@ export const ContactSection = () => {
                                         Location
                                     </h4>
                                     <a  className="text-muted-foreground hover:text-primary transition-colors">
-                                        Barrie
+                                        Barrie, ON, Canada
                                     </a>
                                 </div>
                             </div>
@@ -94,10 +94,10 @@ export const ContactSection = () => {
                                 Connect With Me
                              </h4>
                              <div className="flex space-x-4 justify-center">
-                                <a href="#" target="_blank" className="hover:text-primary">
+                                <a href="https://www.linkedin.com/in/sahib-singh-malhotra/" target="_blank" className="hover:text-primary">
                                     <Linkedin/>
                                 </a>
-                                <a href="#" target="_blank" className="hover:text-primary">
+                                <a href="https://www.instagram.com/sahib_.malhotra/?igsh=d2d4NnVwaDZ2ZDFo&utm_source=qr" target="_blank" className="hover:text-primary">
                                     <Instagram/>
                                 </a>
                              </div>

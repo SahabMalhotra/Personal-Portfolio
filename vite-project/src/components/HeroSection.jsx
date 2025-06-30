@@ -27,7 +27,10 @@ export const HeroSection = () => {
                 </h1>
 
                 <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo suscipit earum rem modi, soluta voluptatibus expedita error nobis dignissimos laboriosam quod dolorem obcaecati porro aliquam.
+                   Junior Software QA and Systems Testing enthusiast with hands-on experience in web and 
+embedded application testing, basic networking, and Linux environments. Adept at writing test 
+cases, working in cross-functional teams, and using version control and CI/CD tools. Passionate 
+about robotics, system reliability, and quality engineering in complex environments.
                     </p>
 
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
