@@ -15,7 +15,7 @@ const projects = [
     },
     {
         id:2,
-        title: "Style Stage",
+        title: "Style Stage CSS Challenge",
         description: "Built a fully responsive, accessible CSS-only theme using Grid, Flexbox, and animations—focused on semantic styling, WCAG standards, and Figma-aligned UI design.",
         image: "/projects/Style-Stage.png",
         tags: ["HTML","CSS"],
